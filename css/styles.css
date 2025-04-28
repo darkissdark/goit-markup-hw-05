@@ -188,6 +188,7 @@ p {
   background-position: center;
   padding: 188px 0;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .page-title {
@@ -294,6 +295,10 @@ p {
 
 .team-section-wrapper {
   background: var(--background-white);
+}
+
+.team-section-wrapper .subsection-p {
+  margin-bottom: 8px;
 }
 
 .team-member-in {
